@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Email</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+</head>
+<body>
+	<div id="elab">
+	<label id="email-label">Send us an email</label>
+	
+</div>
+<div id = "email-form">
+<form action="insert.php" method="post">
+    <table>
+       <tr>
+           <td>
+               Your Name :
+           </td>
+
+           <td>
+               <input type="text"  name="name" placeholder="Your name.." required>
+           </td>
+       </tr>
+
+        <tr>
+           <td>
+               Email :
+           </td>
+              
+           <td>
+                <input type="email"  name="email" placeholder="Your email.." required>
+           </td>
+       </tr>
+
+       <tr>
+           <td>
+               Message :
+           </td>
+              
+           <td>
+               <textarea  name="message" placeholder="Type your message.." required ></textarea>
+           </td>
+       </tr>
+    </table>
+
+     <input type="submit" value="Submit"> 
+
+</form>
+</div>
+<footer id="main-footer">
+  	<p>Copyright &copy; 2021</p>
+  </footer>
+
+</body>
+</html>
