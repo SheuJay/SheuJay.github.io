@@ -1,0 +1,279 @@
+body{
+	background-color:white;
+	margin:0;
+
+}
+
+.box-1{
+	width:100%;
+	height:220px;
+	border:1px solid white; 
+	position:relative;
+}
+#img-0{
+     width: 100%;
+	 height: 220px;
+	}
+
+
+#navbar{
+	
+     background-color:red;
+     height: 45px;
+     color: black;
+     top: 1px;
+    
+	}
+
+#txt-h{
+	margin-top: 1px;
+	font-size: 36px;
+}
+
+#img-1{
+	width: 80px;
+	height: 45px;
+	margin-right:700px;
+}
+#parra-1{
+	background-color:white;
+	margin-left:500px;
+}
+#parra{
+	background-color:white;
+	margin-left:50px;
+}
+
+#promo{
+	background:white;
+	width:100%;
+	height: 300px;
+	display: flex;
+	flex-flow: row;
+}
+#promo-pic{
+	background:white;
+	width: 30%;
+	height: 300px;
+	margin-right:20px;
+
+}
+#promo-det{
+	background:white;
+	width: 25%;
+	height: 100px;
+	position:relative;
+    top: 100px;
+    left: 50px;
+	
+}
+#promo-id{
+	width: 100%;
+	height: 300px;
+
+}
+
+#h2{
+	font-size:20px;
+	margin-left:400px;
+	color:orange;
+
+}
+#h3{
+	font-size:20px;
+	margin-left:400px;
+	color:orange;
+
+}
+
+#branding{
+	background:white;
+	width:100%;
+	height: 300px;
+	display: flex;
+	flex-flow: row;
+}
+
+#branding-id{
+	width: 100%;
+	height: 300px;
+	 margin-left:50px;
+    
+}
+
+#printing-id{
+	width: 100%;
+	height: 300px;
+	 margin-left:100px;
+
+
+}
+
+#photoshoot-id{
+	width: 100%;
+	height: 300px;
+     margin-left:150px;
+}
+
+#h4{
+
+	font-size:40px;
+	margin-left:500px;
+	color:orange;
+}
+#news-det{
+    background:white;
+	width: 25%;
+	height: 100px;
+	position:relative;
+    top: 1px;
+    left: 500px;
+	
+}
+	
+#img-04{
+     width: 5px;
+	height: 5px;	
+}
+
+#email-form{
+	width: 100%;
+	height: 350px;	
+	background:white;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row;
+}
+
+#elab{
+	width: 100%;
+	height: 80px;
+	background:white;
+	text-align: center;
+
+}
+
+#email-label{
+	position: relative;
+	top:20px;
+	font-size:38px;
+	font-family: sans-serif; 
+}
+
+#input-id{
+	width: 300px;
+	height: 30px;
+	margin-top: 20px;
+	border-radius: 8px;
+
+}
+#send{
+     width: 200px;
+	height: 30px;
+	background:green;
+	color: white;
+	margin-top: 20px;
+	border-radius: 8px;
+}
+
+#brand-1{
+	background:white;
+	width:100%;
+	height: 300px;
+	display: flex;
+	flex-flow: column;
+}
+#brand-1-pic{
+	background:white;
+	width: 30%;
+	height: 300px;
+	margin-right:20px;
+
+}
+
+#img-abt{
+	background:white;
+	width:100%;
+	height: 500px;
+}
+
+#About-txt{
+	color:black;
+	margin-left: 400px;
+}
+
+#img-con{
+	background:white;
+	width:100%;
+	height:100%;
+
+}
+
+#main-footer{
+	background: white;
+	color: black;
+	padding: 100px;
+	margin-left:500px;
+
+}
+
+#con-icons{
+	background: white;
+	width: 100%;
+	height: 50px;
+	padding-left: 550px;
+	padding-top: 20px;
+}
+
+#img-email{
+	width: 50px;
+	height: 50px;
+
+}
+
+#img-watsapp{
+	width: 50px;
+	height: 50px;
+
+}
+
+#img-cont{
+	width: 50px;
+	height: 50px;
+
+}
+
+#PH-mssg{
+	padding: 100px;
+	margin-left:200px;
+}
+#brand-mssg{
+	padding: 100px;
+	margin-left:200px;
+}
+#print-mssg{
+	padding: 100px;
+	margin-left:200px;
+}
+
+#mssg-bezz1{
+    padding: 100px;
+	margin-left:200px;
+}
+
+#footer-promo{
+	margin-left:650px;
+	padding: 100px;
+}
+
+#pro-tag{
+	margin-left:400px;
+
+}
+
+#dankie{
+	padding-top: 300px;
+	margin-left: 500px;
+}
+
